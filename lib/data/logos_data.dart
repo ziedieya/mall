@@ -1,0 +1,74 @@
+List logosData = [
+{
+  "path":"assets/images/hm.png",
+  "name":"H&M",
+  },
+{
+  "path":"assets/images/zara.png",
+  "name":"ZARA",
+  },
+{
+  "path":"assets/images/bershka.png",
+  "name":"BERSHKA",
+  },
+{
+  "path":"assets/images/mango.png",
+  "name":"MANGO",
+  },
+{
+  "path":"assets/images/exist.png",
+  "name":"EXIST",
+  },
+{
+  "path":"assets/images/p&b.png",
+  "name":"PULL&BEAR",
+  },
+{
+  "path":"assets/images/celio.png",
+  "name":"CELIO",
+  },
+{
+  "path":"assets/images/zen.png",
+  "name":"ZEN",
+  },
+{
+  "path":"assets/images/parfois.png",
+  "name":"PARFOIS",
+  },
+{
+  "path":"assets/images/gio.png",
+  "name":"GIOSEPPO",
+  },
+{
+  "path":"assets/images/stradi.png",
+  "name":"STRADIVARIUS",
+  },
+{
+  "path":"assets/images/citysport.png",
+  "name":"CITYSPORT",
+  },
+{
+  "path":"assets/images/massimo.png",
+  "name":"MASSIMO",
+  },
+{
+  "path":"assets/images/ha.png",
+  "name":"HA",
+  },
+{
+  "path":"assets/images/decathlon.png",
+  "name":"DECATHLON",
+  },
+{
+  "path":"assets/images/fatales.png",
+  "name":"FATALES",
+  },
+{
+  "path":"assets/images/lcw.png",
+  "name":"LC WAIKIKI",
+  },
+  {
+  "path":"assets/images/kiko.png",
+  "name":"KIKO",
+  },
+];
